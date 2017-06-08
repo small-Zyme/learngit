@@ -9,4 +9,4 @@ Creating a new branch is quick!
 I an good people!
 Creating an new branch is quick AND simple!
 >>>>>>> featurel
-Creating a new branch is quick and simple
+Creating a new branch is quick and happy!
